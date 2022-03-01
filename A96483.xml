@@ -1,0 +1,534 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay to a continuation of Iter boreale; attempting something upon the happy influence, which that seasonable and successefull march of the Lord Generall Monck out of the North, had upon the arts and sciences. By a lover of learning.</title>
+            <author>Wild, Robert, 1609-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96483</idno>
+            <idno type="STC">Wing W2135</idno>
+            <idno type="STC">Thomason E1032_6</idno>
+            <idno type="EEBO-CITATION">99867842</idno>
+            <idno type="PROQUEST">99867842</idno>
+            <idno type="VID">168901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96483)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168901)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1032[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay to a continuation of Iter boreale; attempting something upon the happy influence, which that seasonable and successefull march of the Lord Generall Monck out of the North, had upon the arts and sciences. By a lover of learning.</title>
+                  <author>Wild, Robert, 1609-1679.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Smith, and are to be sold at the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A lover of learning = Robert Wild.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "July 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love, Christopher, 1618-1651 --  Poetry --  Early works to 1800.</term>
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168901:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 87 -->
+            <p>AN ESSAY TO A Continuation OF ITER BOREALE; Attempting ſomething upon the happy influ<g ref="char:EOLhyphen"/>ence, which that ſeaſonable and ſucceſſefull march OF THE LORD Generall Monck Out of the North, had upon the Arts and Sciences.</p>
+            <p>
+               <hi>BY a LOVER of LEARNING.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Smith,</hi> and are to be ſold at the <hi>Crane</hi> in <hi>Pauls</hi> Church-yard. 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:168901:2"/>
+            <!-- PDF PAGE 88 -->
+            <pb n="1" facs="tcp:168901:2"/>
+            <!-- PDF PAGE 88 -->
+            <head>An Eſsay to a Continuation <hi>OF ITER BOREALE.</hi>
+            </head>
+            <l>COme, come my Muſe away, make haſt to greet</l>
+            <l>Great Genera<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l <hi>Monck,</hi> go kiſs his welcome feet;</l>
+            <l>Indeed th' art ſomething tardy but however</l>
+            <l>The Proverb holds, 'tis better, late then never.</l>
+            <l>Some Candid Reader will ſuppoſe the lack</l>
+            <l>Of generous Wine, might ſet thy fancy back.</l>
+            <l>Excuſes may be found for coming late,</l>
+            <l>For thankfulneſſe is ſeldome out of date:</l>
+            <l>What Art or Science ſhall not ſtoop to the</l>
+            <l>Great <hi>Hero,</hi> Patron of their liberty.</l>
+            <l>
+               <hi>Lilly</hi> and <hi>Cambden</hi> both, had ta'ne their flight</l>
+            <l>From <hi>Britiſh</hi>-coaſts, and left a ſhady night,</l>
+            <l>But for thy coming, they had packt away</l>
+            <l>Their <hi>Parts of ſpeech,</hi> and durſt no longer ſtay:</l>
+            <l>The <hi>Nouns</hi> were frighted at the Martiall brood,</l>
+            <l>And fear'd <hi>Declenſion</hi> as the <hi>Caſes</hi> ſtood;</l>
+            <pb n="2" facs="tcp:168901:3"/>
+            <!-- PDF PAGE 89 -->
+            <l>The <hi>Subſtantives</hi> began to make their moan,</l>
+            <l>They muſt have help, they could not ſtand alone;</l>
+            <l>The <hi>Adjective</hi> that could not ſtand before,</l>
+            <l>Did never look to be ſupported more;</l>
+            <l>The <hi>Numbers</hi> were too weak to keep the field,</l>
+            <l>And with the fifteen <hi>Pronouns</hi> meant to yield.</l>
+            <l>
+               <hi>Compariſons</hi> grew odious, what degree.</l>
+            <l>Can be expected from an Anarchy?</l>
+            <l>The <hi>Verb</hi> and <hi>Participle</hi> found no fence,</l>
+            <l>That might ſecure them in the Future-Tence</l>
+            <l>
+               <hi>POSS<g ref="char:V">Ʋ</g>M</hi> was cal'd with all his force, but he</l>
+            <l>Confeſt he wanted poſſibility.</l>
+            <l>The other <hi>Parts of ſpeech</hi> did want protection,</l>
+            <l>Witneſſe the ſighing of the <hi>Interjection.</hi>
+            </l>
+            <l>SYNTAX diſpair'd, ſaying, will they ſpare</l>
+            <l>A quiet place where any concords are;</l>
+            <l>And poor <hi>Proſodia</hi> all beſmears her eye</l>
+            <l>With weeping to her mournfull Elegies.</l>
+            <l>But thou haſt wip't them, and ſhe means to raiſe</l>
+            <l>Her higheſt note to celebrate thy praiſe.</l>
+            <div n="2" type="section">
+               <pb n="3" facs="tcp:168901:3"/>
+               <!-- PDF PAGE 89 -->
+               <head>SECT. <hi>2.</hi>
+               </head>
+               <l>
+                  <hi>RHetorick</hi> that pleaſant Miſtriſſe, Learnings grace</l>
+               <l>Whoſe gaudy Varniſh wont to hide the face</l>
+               <l>Of horrid Acts, grows mute, and doth deny</l>
+               <l>To colour treaſon by an Encomy.</l>
+               <l>Her ſmoother ſtile was turnd to Haeſitation,</l>
+               <l>Stifled with guilt, it mar'd her pronunciation.</l>
+               <l>But by thy coming, thou haſt rais'd the hopes</l>
+               <l>Of fainting <hi>Suada,</hi> and redeem'd her <hi>Tropes</hi>
+               </l>
+               <l>By caſting ſubtle figures, ſo that all</l>
+               <l>She ſpeaks of thee, muſt be Myoticall.</l>
+               <l>Now may ſhe ſpeak her mind and may declare</l>
+               <l>What kind of Muſhroms our late Courtiers were;</l>
+               <l>That <hi>NOL</hi> a Brewer was, and <hi>PRIDE</hi> his Dray man,</l>
+               <l>
+                  <hi>HEWSON</hi> a Cobler, <hi>PACKER</hi> but a Lay-man</l>
+               <l>The <hi>Rump</hi> forlorn, and of that curſed Crew</l>
+               <l>Some loſe their pelf, ſome bid the World adieu.</l>
+               <l>Thus haſt thou furniſht <hi>Pytho</hi> with a ſpring,</l>
+               <l>To curſe the wicked, and ſalute a King.</l>
+            </div>
+            <div n="3" type="section">
+               <pb n="4" facs="tcp:168901:4"/>
+               <!-- PDF PAGE 90 -->
+               <head>SECT. <hi>3.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>LOgick,</hi> the Queen of Reaſon, to whoſe bent</l>
+                  <l>All power ſtoopt by force of Argument,</l>
+                  <l>Is now ſo baffled, that ſhe proſtrate lies</l>
+                  <l>A Captive Vaſſell to abſurdities.</l>
+                  <l>'Twould melt your heart to hear the dolefull ſtory</l>
+                  <l>And ſad complaint from every Catagory;</l>
+                  <l>
+                     <hi>S<g ref="char:V">Ʋ</g>BSTANTIA</hi> loſt her ſubſtance, and ſhe meant,</l>
+                  <l>Hadſt thou not come to turn an accident;</l>
+                  <l>'Twas well poor <hi>Q<g ref="char:V">Ʋ</g>ANTITY</hi> was ſo diſcreet,</l>
+                  <l>To ſtay her time, thy kind acceſſe to greet.</l>
+                  <l>All <hi>Q<g ref="char:V">Ʋ</g>ALITY</hi> was ſo transform'd of late,</l>
+                  <l>She loſt her skill, nor could denominate:</l>
+                  <l>Princes, muſt go on foot and beggars ride,</l>
+                  <l>Coblers turn Peers, and Carters magnifi'd;</l>
+                  <l>The noble qualitie which wont t' adorn</l>
+                  <l>The Courts of Princes now become a ſcorn</l>
+                  <l>To baſe Plebeians, you would ſpue to ſee</l>
+                  <l>A ſtinking Rump dreſt up in Majeſtie.</l>
+                  <l>
+                     <hi>RELATIONS</hi> all grew heavie and each eie</l>
+                  <l>Was turnd a Fount by kinder ſympathie</l>
+                  <l>Nor do I wonder when all Royall <hi>ACTION</hi>
+                  </l>
+                  <pb n="5" facs="tcp:168901:4"/>
+                  <!-- PDF PAGE 90 -->
+                  <l>Is ſolely manag'd by a curſed faction.</l>
+                  <l>
+                     <hi>PASSION</hi> grew high, and could not brook ſuch things</l>
+                  <l>As mounting Beggars and depoſing Kings.</l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>BI</hi> looks out in hope ſhe might deſcry</l>
+                  <l>Some kinder ſuccor in extremity.</l>
+                  <l>
+                     <hi>Q<g ref="char:V">Ʋ</g>ANDO</hi> thinks long, and ſaith, what ſhall I be</l>
+                  <l>Servant of Servants to eternity.</l>
+                  <l>
+                     <hi>SIT<g ref="char:V">Ʋ</g>S</hi> was reſtleſs; while ſhe makes a moan,</l>
+                  <l>The worſt of Varlets did prophane the Throne.</l>
+                  <l>The <hi>HABITS</hi> were ſo wicked in the Nation,</l>
+                  <l>That now Rebellion calls for abjuration,</l>
+                  <l>'Twas God that ſent thee in this doubtfull ſeaſon,</l>
+                  <l>To make us men and bring us to our reaſon,</l>
+                  <l>The ill bred <hi>genus</hi> thou haſt packt from hence,</l>
+                  <l>Defining Kingdomes by a difference;</l>
+                  <l>The curſed <hi>Juncto</hi> of Hypocriſie,</l>
+                  <l>Themſelves are baffl'd by a fallicy:</l>
+                  <l>The World could not have found ſo fit a pate,</l>
+                  <l>In ſuch a nick of time to moderate.</l>
+               </lg>
+            </div>
+            <div n="4" type="section">
+               <head>SECT <hi>4.</hi>
+               </head>
+               <l>MOralls that wont to guide us heretofore,</l>
+               <l>A crowd of Clowns had voted out of door.</l>
+               <l>The vertuer hide themſelves while bolder Vice</l>
+               <pb n="6" facs="tcp:168901:5"/>
+               <!-- PDF PAGE 91 -->
+               <l>Hath friends at Court, and is upon her riſe.</l>
+               <l>'What need is there of <hi>Ethicks,</hi> why ſhould we</l>
+               <l>'Conſult the heathen for felicity.</l>
+               <l>'Alas! Their <hi>ſummum bonum</hi> is a toy</l>
+               <l>'Compar'd with ours; three Kingdomes we enjoy,</l>
+               <l>'And can we keep them we ſhall not envy</l>
+               <l>'The great <hi>Mogoll</hi> in all his Majeſty:</l>
+               <l>'Why ſhould we Chriſtians ſtoop to higher powers,</l>
+               <l>'<hi>Adam</hi> their Grandſire was, and ſo is ours.</l>
+               <l>Thou heardſt our rudeneſſe, and couldſt eaſily ſpy</l>
+               <l>Our great defect in this Phyloſophie.</l>
+               <l>Thou readſt an <hi>Ethick</hi> Lecture, we encline</l>
+               <l>And prove proficients in thy diſcipline:</l>
+               <l>The great uſurping <hi>Dons</hi> which governd ail,</l>
+               <l>Were Taught a Leſſon more Monaſticall.</l>
+               <l>Thy precept and thy practice both do ply</l>
+               <l>The ſtricteſt leſſons of Oeconomie,</l>
+               <l>And where thou find'ſt a ſtudent is for tricks,</l>
+               <l>Thou ſhewſt thy skill as well in politicks.</l>
+               <l>
+                  <hi>The ſaucy</hi> Rump <hi>who ſcornd the beſt of Kings,</hi>
+               </l>
+               <l>
+                  <hi>In lower Congies broke her twatling ſtrings</hi>
+               </l>
+               <l>
+                  <hi>To entertain thee, while a Chair of State</hi>
+               </l>
+               <l>
+                  <hi>Muſt be prepar'd and all that's delicate.</hi>
+               </l>
+               <l>Thou taught'ſt the Court, the Camp, and all to crie,</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ong live KING CHARLES God bleſs his Majeſty.</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ext under God we owe thy conquering banners,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he late Edition of our <hi>Engliſh</hi> manners.</l>
+            </div>
+            <div n="5" type="section">
+               <pb n="7" facs="tcp:168901:5"/>
+               <!-- PDF PAGE 91 -->
+               <head>SECT. 5.</head>
+               <l>
+                  <hi>PHYSICKS</hi> had loſt their Science, whiles that all</l>
+               <l>Was out of courſe, and turn'd unnatural;</l>
+               <l>In vain their Students ſhall hereafter pry</l>
+               <l>In Natures Secrets, alls a prodigie;</l>
+               <l>
+                  <hi>Materia prima</hi> like, poor <hi>England</hi> ſtood</l>
+               <l>For ſome Impreſsion, give it what you wood.</l>
+               <l>Natures beſt friend thou cameſt and found us thus,</l>
+               <l>And brought a Form, by bringing <hi>Carolus.</hi>
+               </l>
+               <l>The Cauſes all conſpire, and God direct</l>
+               <l>The bleſt production of this good effect;</l>
+               <l>Thou haſt ingaged the Sophiſter to ply</l>
+               <l>The choiceſt tracts in this Philoſophy.</l>
+            </div>
+            <div n="6" type="section">
+               <head>SECT. 6.</head>
+               <l>THe <hi>Metaphyſicks</hi> fear'd their tender <hi>Ens</hi>
+               </l>
+               <l>With <hi>verum bonum</hi> would be baniſht hence;</l>
+               <pb n="8" facs="tcp:168901:6"/>
+               <!-- PDF PAGE 92 -->
+               <l>The Angels could not ſave, although they lent,</l>
+               <l>The ſtrongeſt force of each intelligent:</l>
+               <l>It was the In-created ſubſtance ſtaid</l>
+               <l>The ſpitefull hands, and made them all afraid,</l>
+               <l>By ſending great St. <hi>George,</hi> who by his might,</l>
+               <l>Did baniſh darkneſs, and recover light.</l>
+            </div>
+            <div n="7" type="section">
+               <head>SECT. <hi>7.</hi>
+               </head>
+               <l>THe Law's a Kingdoms Bulwark, and the Fence,</l>
+               <l>The two edg'd Sword that keeps from violence,</l>
+               <l>Loſt both their tongue and ſence, ſo that the wiſe</l>
+               <l>Call'd all oppreſsion, in a Legal guiſe;</l>
+               <l>Our Lives, our Fortunes, Names and all muſt be</l>
+               <l>Poor fetter'd Priſoners to neceſſity.</l>
+               <l>What dolefull ſound was heard, what lamentation</l>
+               <l>Of Plunders, Thefts, of Rapes, and ſequeſtration?</l>
+               <l>Here ſits a weeping Orphan, and anon</l>
+               <l>We meet another ruin'd and undone.</l>
+               <l>
+                  <hi>Aſtrea</hi> went her way, but (O the pity)</l>
+               <l>She left her buſineſs with a dull Committee.</l>
+               <l>The<note n="*" place="margin">Meaning pretenders without the practice of godlineſs.</note> godly mend their pack, the Saint inherit</l>
+               <l>Not by the <hi>Norman</hi> Law, but ſeeming merit;</l>
+               <l>Each place of Truſt and profit that way ran,</l>
+               <pb n="9" facs="tcp:168901:6"/>
+               <!-- PDF PAGE 92 -->
+               <l>And lo, the Saint is turned a Publican.</l>
+               <l>High Courts of <hi>Juſtice</hi> never known before.</l>
+               <l>Muſt be erected as a Poſtern<g ref="char:punc">▪</g> door</l>
+               <l>For King and Peers, and to ſtop the ery</l>
+               <l>Of Royal blood, they cloak their Butchery</l>
+               <l>By ſeeming Law; and by a ſtrange pretence</l>
+               <l>All that was done was done by providence:</l>
+               <l>And wilt, O God, endure ſo great affront</l>
+               <l>From Hypocrites, and ſtand no more upon't?</l>
+               <l>What ſhall the worſt, and greateſt of Impiety</l>
+               <l>Acted by men, be charged upon the Deity?</l>
+               <l>Shall ſuch unheard of miſchief ſtill be hie,</l>
+               <l>Under Religions Cloak? let God forbid:</l>
+               <l>Thou heardſt our ſuit, and ſent great <hi>Monk</hi> to chaſe</l>
+               <l>The Rumpant Rebell and Redeem the Mace.</l>
+            </div>
+            <div n="8" type="section">
+               <head>SECT. <hi>8.</hi>
+               </head>
+               <l>
+                  <hi>MFdicks</hi> whoſe skill was wont to bring again</l>
+               <l>A ſwooning Patient and remove the pain,</l>
+               <l>Conſults her Herbal, but could not deſcry,</l>
+               <l>A proper Plant for <hi>Englands</hi> malady;</l>
+               <l>The bolder Emprick comes, and for his Fee,</l>
+               <l>Preſcribes Purgation and Phlebotomy;</l>
+               <pb n="10" facs="tcp:168901:7"/>
+               <!-- PDF PAGE 93 -->
+               <l>The Nobleſt blood runs out, the dregs remain,</l>
+               <l>And ſtill the Patient doth encreaſe her pain;</l>
+               <l>Now giving up the Ghoſt ſhe was heard to cry,</l>
+               <l>
+                  <hi>O give me ſomething Soveraign, or I die,</hi>
+               </l>
+               <l>Thou heardſt, and doſt employ thy utmoſt skill</l>
+               <l>To give her eaſe by giving her her will.</l>
+               <l>
+                  <hi>A</hi> Colledge of Phyſicians do conſent</l>
+               <l>She muſt be pleas'd, her Cure is content.</l>
+               <l>Then hoiſt up ſail, and lets not ſpare for c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt,</l>
+               <l>Bring home that Drug, or <hi>England</hi> will be loſt,</l>
+               <l>She gladly takes it, and anon her dolour</l>
+               <l>Ceaſt, looks freſh, and gains her colour</l>
+               <l>Nay, then great Sir, ſince we are ſaved thus,</l>
+               <l>Wee I gil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy Shrine, Great <hi>Eſculapius.</hi>
+               </l>
+            </div>
+            <div n="9" type="section">
+               <head>SECT. <hi>9.</hi>
+               </head>
+               <l>
+                  <hi>ARITHMATICK</hi> whoſe chiefeſt skill doth lie</l>
+               <l>In total Sums, forgot to multiply;</l>
+               <l>There was ſo much Diviſion and Subſtraction,</l>
+               <l>Her total Numbers mouldred into fraction.</l>
+               <l>Her eager Students cry, when ſhall we be</l>
+               <l>Paſt Subdiviſion, at the Rule of three.</l>
+               <l>The Cheating Treaſurers began to boaſt,</l>
+               <pb n="11" facs="tcp:168901:7"/>
+               <!-- PDF PAGE 93 -->
+               <l>Th' had paſt accounts, but reckt without their Hoſt.</l>
+               <l>What do I ſtand for <hi>Cyphers?</hi> Reach a Pen,</l>
+               <l>There muſt be more, you muſt account agen:</l>
+               <l>Thus didſt thou teach the cheating Knave a trick,</l>
+               <l>And taught him better in Arithmatick.</l>
+            </div>
+            <div n="10" type="section">
+               <head>SECT. <hi>10.</hi>
+               </head>
+               <l>
+                  <hi>ASTRONOMY</hi> whoſe Lectures made us wiſe</l>
+               <l>In Revolution, and to read the Skies,</l>
+               <l>Now curſe the Stars, and do conclude from thence</l>
+               <l>Her ruine came, Malignant Influence</l>
+               <l>Became her bane, and now ſhe muſt deny</l>
+               <l>To Court the Planets, all's Inconſtancy.</l>
+               <l>The new erected Lights eclipſe the Sun;</l>
+               <l>Prodigious Comet <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay we are undone.</l>
+               <l>
+                  <hi>Lillie</hi> was non-pluſt, and at laſt he ſell</l>
+               <l>From Reading Heaven to conſult with Hell<g ref="char:punc">▪</g>
+               </l>
+               <l>But ſtay, me thinks a glorious ſtar appear</l>
+               <l>From Northen parts, preſage a happy year;</l>
+               <l>This Star Riſe higher, and at length obtain</l>
+               <l>The wiſhed ſight of <hi>Charls</hi> the ſeconds Wain.</l>
+               <l>Now thanks to Heaven, all the Stars conſpire</l>
+               <l>To give poor <hi>England</hi> in, her hearts deſire.</l>
+            </div>
+            <div n="11" type="section">
+               <pb n="12" facs="tcp:168901:8"/>
+               <!-- PDF PAGE 94 -->
+               <head>SECT. <hi>11.</hi>
+               </head>
+               <l>
+                  <hi>THEOLOGIE</hi> which teach us to adore</l>
+               <l>One only God, and to admit no more,</l>
+               <l>Bids us to rear an Altar, and to pay</l>
+               <l>Our thankfulneſs, befitting ſuch a day:</l>
+               <l>A day, whoſe brighter beams did put to flight</l>
+               <l>Thoſe Owls and Bats that Revel'd in the night:</l>
+               <l>A glorious Church was brought to meer Confuſion,</l>
+               <l>Undoubted truth, expel'd by ſtrong deluſion,</l>
+               <l>Unhallowed hands prophane the Sacred Rite,</l>
+               <l>And Ignorance pretend to greateſt light,</l>
+               <l>The Cobler lays aſide the old Tranſlation,</l>
+               <l>Puts up his Tools, and works by Inſpiration.</l>
+               <l>The Canting <hi>Quaker</hi> makes a hideous cry,</l>
+               <l>
+                  <hi>England</hi> Repent, Repent or elſe you die:</l>
+               <l>The <hi>Dipper</hi> counts the wicked world unclean,</l>
+               <l>And muſt be damn'd, or dipped once again:</l>
+               <l>Now <hi>Englands</hi> Ark may fear deſtructive Rocks,</l>
+               <l>Whoſe only Sin was to be <hi>Orthodox</hi>
+               </l>
+               <l>But is there any hope ſome man of Order</l>
+               <l>Will ſympathize, and look upon our border?</l>
+               <l>At length Religious <hi>Monk,</hi> was heard to ſay,</l>
+               <pb n="13" facs="tcp:168901:8"/>
+               <!-- PDF PAGE 94 -->
+               <l>
+                  <hi>Quaker</hi> be gone, <hi>Phanaticks</hi> all away.</l>
+               <l>Thus didſt thou give our Church a better face,</l>
+               <l>And given hopes to ſee her wonted <hi>GRACE.</hi>
+               </l>
+            </div>
+            <div n="12" type="section">
+               <head>SECT. <hi>12.</hi>
+               </head>
+               <l>
+                  <hi>MVSICK</hi> whoſe Noble Science did inſpire,</l>
+               <l>Diviner ſouls, and rais'd the fancie higher,</l>
+               <l>Her ſelf was out of Tune by raging Billows,</l>
+               <l>And hangs her warbling Harp upon the Willows,</l>
+               <l>Is this a time for mirth? May every eye</l>
+               <l>Keep time in tears, and weep by ſympathie.</l>
+               <l>Are Law and Goſpel both turn'd out of door?</l>
+               <l>Put up the Viol bring the Lute no more.</l>
+               <l>Thus lay the mournfull Virgin like to die,</l>
+               <l>But now recovered to an extaſie:</l>
+               <l>Now doth ſhe chooſe her moſt delightfull ayres,</l>
+               <l>And tunes her Song according to affairs;</l>
+               <l>Now doth ſhe make the Chriſtian world to ring</l>
+               <l>Thy great atchievements for thy exile King:</l>
+               <l>Shee'l ſerve the here, and when thou ſhalt expire,</l>
+               <l>Shee'l raiſe her Heavenly Note a great deal higher,</l>
+               <l>She may attend the in the Angels Qui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</l>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
